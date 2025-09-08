@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    module_name: poc.definitions
+  location_name: poc_definitions
